@@ -7,7 +7,7 @@
 
 ###安装
 
-$ php composer.phar require chonder/yii2-aliyun-oss "dev-master"
+$ php composer.phar require juju/yii2-aliyun-oss "dev-master"
 
 ###Yii2使用
 
@@ -30,7 +30,7 @@ $ php composer.phar require chonder/yii2-aliyun-oss "dev-master"
 
 namespace app\components;
 
-use chonder\AliyunOss\AliyunOSS;
+use juju\AliyunOss\AliyunOSS;
 use Yii;
 
 class OSS {
