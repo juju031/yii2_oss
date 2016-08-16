@@ -14,6 +14,6 @@
       }
   ],
   "autoload": {
-    "psr-4": {"chonder\\AliyunOSS\\": ""}
+    "psr-4": {"juju\\AliyunOSS\\": ""}
   }
 }
